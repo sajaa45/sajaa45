@@ -1,18 +1,18 @@
 # 👋 Hi, I'm Saja Moussa
 
 🎓 **Final-year IT student** at Tunis Business School, majoring in **Information Technology** with a minor in **Business Analysis**.  
-💡 Passionate about **Artificial Intelligence**, **Machine Learning**, and **Data-Driven Systems** — I love building intelligent applications that merge creativity, logic, and impact.
+💡 Passionate about **Artificial Intelligence**, **Machine Learning**, and **Data-Driven Systems** . I love building intelligent applications that merge creativity, logic, and impact.
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 - 🌱 Learning more about **RAG**, **LangChain**, and **Multi-Agent AI Systems**  
 - 💬 I enjoy collaborating on **AI projects**, **data engineering pipelines**, and **intelligent automation**  
 - 🧠 My focus areas: AI/ML, NLP, Computer Vision, and Cloud-Integrated AI systems  
 ---
 
-## 💼 Experience
+##  Experience
 
 **🧠 AI Developer Intern – Olindias (Jul–Aug 2025)**  
 Built a semantic search pipeline using RAG and LangChain, structuring unstructured web data for vector retrieval.
@@ -25,7 +25,7 @@ Engineered secure Spring Boot + Angular applications and optimized backend syste
 
 ---
 
-## 🧩 Projects
+##  Projects
 
 | Project | Description | Tech Stack |
 |----------|--------------|-------------|
@@ -38,7 +38,7 @@ Engineered secure Spring Boot + Angular applications and optimized backend syste
 
 ---
 
-## 🛠️ Technologies & Tools
+##  Technologies & Tools
 
 **AI / ML:** PyTorch, TensorFlow, Keras, LangChain, Hugging Face, scikit-learn, YOLOv8  
 **Backend:** FastAPI, Flask, Spring Boot  
@@ -48,7 +48,7 @@ Engineered secure Spring Boot + Angular applications and optimized backend syste
 
 ---
 
-## 🎓 Certifications
+##  Certifications
 
 - 🧩 *Developing Applications with LangChain*  
 - 🤖 *Transformer-Based Natural Language Processing*  
@@ -58,7 +58,7 @@ Engineered secure Spring Boot + Angular applications and optimized backend syste
 
 ---
 
-## 🌱 Let's Connect
+##  Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/saja-moussa/)  
 - 💻 [Portfolio](https://sajaa45.github.io/portfolio/)  
