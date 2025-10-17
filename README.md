@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Saja Moussa
+#  Hi, I'm Saja Moussa
 
 🎓 **Final-year IT student** at Tunis Business School, majoring in **Information Technology** with a minor in **Business Analysis**.  
 💡 Passionate about **Artificial Intelligence**, **Machine Learning**, and **Data-Driven Systems** . I love building intelligent applications that merge creativity, logic, and impact.
