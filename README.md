@@ -1,4 +1,4 @@
-# Hi, I'm Saja Moussa
+# Hi, I'm Saja 
 
 I’m an **AI/ML Engineer and Software Developer** passionate about building intelligent, production-oriented systems. My work focuses on **Generative AI, NLP, RAG, knowledge graphs, machine learning, and full-stack AI applications**.
 
